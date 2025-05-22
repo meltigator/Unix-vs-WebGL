@@ -1,7 +1,9 @@
 
 🚀 WebGL in 1 Minute? Yes, Thanks to Unix & MSYS2!
 
+
 Just built a zero-config WebGL demo entirely with Bash + Unix tools on Windows (via MSYS2)! 
+
 
 🧠 Why it’s cool:
 
