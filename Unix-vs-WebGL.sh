@@ -8,11 +8,11 @@ set -e
 APP_NAME="webgl-demo-cube"
 echo "==> WebGL: $APP_NAME"
 
-# Pulizia e creazione struttura
+# Cleaning and creating structure
 rm -rf "$APP_NAME"
 mkdir -p "$APP_NAME/js" && cd "$APP_NAME"
 
-# Creazione index.html
+# Creating index.html
 cat > index.html <<EOF
 <!DOCTYPE html>
 <html lang="en">
